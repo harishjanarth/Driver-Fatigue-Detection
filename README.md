@@ -4,14 +4,14 @@ This project implements a **Machine Learning pipeline** to detect driver fatigue
 
 ---
 
-## 📚 Dataset
+## Dataset
 
 - **Source:** [Figshare EEG Driver Fatigue Dataset](https://figshare.com/articles/dataset/The_original_EEG_data_for_driver_fatigue_detection/5202739)
 - **Description:** EEG recordings collected from 12 subjects under alert and fatigued driving conditions.
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - **Language:** Python
 - **Libraries:**
